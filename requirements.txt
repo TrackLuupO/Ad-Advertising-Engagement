@@ -1,0 +1,9 @@
+# requirements.txt
+# Core Libraries
+pandas
+matplotlib
+seaborn
+pyreadstat
+jupyter
+plotly
+numpy<2
